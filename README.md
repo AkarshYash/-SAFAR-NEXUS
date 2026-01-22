@@ -41,6 +41,10 @@ Deploy SAFAR-Nexus with **ZERO cost** using completely FREE services - no credit
 
 ## Architecture
 
+https://github.com/user-attachments/assets/e3791c2e-6705-4940-9c8b-5af4dc1d04d0
+
+
+
 ```
 ┌─────────────────┐
 │  Flutter App    │  (Mobile: Android/iOS)
@@ -392,4 +396,5 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **SAFAR-Nexus** - Making roads safer, one detection at a time.
+
 
