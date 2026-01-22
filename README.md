@@ -6,7 +6,7 @@ A next-generation road intelligence platform that transforms smartphone users in
 
 ## Overview
 
-SAFAR-Nexus uses computer vision and on-device AI to detect road hazards (potholes, speed breakers, debris) in real-time through smartphone cameras. The system geotags events, sends instant alerts to nearby drivers, and maintains end-to-end privacy by automatically blurring faces and license plates.
+SAFAR-Nexus uses computer vision and on-device AI to detect road hazards (potholes, speed breakers, debris) in real-time through smartphone cameras. The system geotags events, sends instant alerts to nearby drivers, and maintains end-to-end privacy by automatically blurring faces and license plates. SAFAR-Nexus is a next-generation AI-powered road safety platform that transforms smartphones into a collective sensor grid for real-time hazard detection and prevention. The system uses computer vision and machine learning to detect road hazards like potholes, speed breakers, and debris, then alerts nearby drivers instantly.
 
 ## 🎉 100% FREE Deployment Available!
 
@@ -392,3 +392,4 @@ For questions or support, please open an issue on GitHub.
 ---
 
 **SAFAR-Nexus** - Making roads safer, one detection at a time.
+
